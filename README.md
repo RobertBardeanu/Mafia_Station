@@ -8,8 +8,8 @@ Die Story folgt zwei Spielern, die Schulden bei der Mafia haben und sich durch z
 
 ## Inhalte des Projekts
 
-- Unity-2D-Spiel mit 20 Levels.[file:1]
-- Lokaler 2-Spieler-Modus mit unterschiedlichen Fähigkeiten.[file:1]
+- Unity-2D-Spiel mit 20 Levels.
+- Lokaler 2-Spieler-Modus mit unterschiedlichen Fähigkeiten.
 - Menüs wie Hauptmenü, Pause, Settings, Häuserauswahl, Levelauswahl und Game-Over-Menü.
 - Gameplay-Systeme wie Gegner, Health, Schießen, Schlagen, Timer und Dialoge.
 - Dokumentation des Projekts in `Dokumentation_Mafia_Station.docx`.
