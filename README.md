@@ -31,16 +31,15 @@ Das Spiel enthält ein Hauptmenü, eine Häuserauswahl mit Passwortabfrage für 
 Das Projekt wurde mit Unity umgesetzt. In der Dokumentation werden unter anderem Scripts für Movement, Health, Schießen, Gegnerverhalten, AudioManager, Passwortsystem, Timer und Dialoge beschrieben.
 ## GitHub und Dateigröße
 
-Das komplette Spiel ist aktuell nicht auf GitHub, weil das Projekt sehr groß ist. GitHub begrenzt normale Dateien in Repositories und empfiehlt für große Dateien Git Large File Storage (Git LFS).
-
+Das komplette Spiel ist aktuell nicht auf GitHub, weil das Projekt sehr groß ist.
 
 ## Mitwirkende
 
 - Florian László Brems
 - Dominik Berák
-- Robert Bârdeanu[
+- Robert Bârdeanu
 
-Betreut wurde das Projekt von Herr Brusda, Herr Anhorn und Herr Wiest.[file:1]
+Betreut wurde das Projekt von Herr Brusda, Herr Anhorn und Herr Wiest.
 
 ## Dokumentation
 
